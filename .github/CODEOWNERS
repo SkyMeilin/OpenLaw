@@ -1,5 +1,5 @@
 # Protect the ownership rules themselves.
-/.github/CODEOWNERS @steipete
+/.github/CODEOWNERS @sky-meilin
 
 # WARNING: GitHub CODEOWNERS uses last-match-wins semantics.
 # If you add overlapping rules below the secops block, include @openclaw/secops
